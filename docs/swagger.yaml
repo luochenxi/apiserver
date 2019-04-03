@@ -1,0 +1,47 @@
+basePath: '{{.BasePath}}'
+definitions:
+  xiuxiu.GetRequest:
+    properties:
+      image:
+        type: string
+      top:
+        type: string
+    type: object
+  xiuxiu.GetResponse:
+    properties:
+      image:
+        type: string
+    type: object
+host: '{{.Host}}'
+info:
+  contact: {}
+  description: '{{.Description}}'
+  license: {}
+  title: '{{.Title}}'
+  version: '{{.Version}}'
+paths:
+  /hash/xiuxiu/v3:
+    post:
+      consumes:
+      - application/json
+      description: Get a similar result
+      parameters:
+      - description: Get a similar list
+        in: body
+        name: xiuxiu
+        required: true
+        schema:
+          $ref: '#/definitions/xiuxiu.GetRequest'
+          type: object
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: '{"code":0,"message":"OK","data":{"username":"lcx"}}'
+          schema:
+            $ref: '#/definitions/xiuxiu.GetResponse'
+            type: object
+      summary: Get a similar result by xiuxiu images retrieval
+      tags:
+      - xiuxiu
+swagger: "2.0"

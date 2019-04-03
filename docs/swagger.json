@@ -1,0 +1,71 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "{{.Description}}",
+        "title": "{{.Title}}",
+        "contact": {},
+        "license": {},
+        "version": "{{.Version}}"
+    },
+    "host": "{{.Host}}",
+    "basePath": "{{.BasePath}}",
+    "paths": {
+        "/hash/xiuxiu/v3": {
+            "post": {
+                "description": "Get a similar result",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "xiuxiu"
+                ],
+                "summary": "Get a similar result by xiuxiu images retrieval",
+                "parameters": [
+                    {
+                        "description": "Get a similar list",
+                        "name": "xiuxiu",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "type": "object",
+                            "$ref": "#/definitions/xiuxiu.GetRequest"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "{\"code\":0,\"message\":\"OK\",\"data\":{\"username\":\"lcx\"}}",
+                        "schema": {
+                            "type": "object",
+                            "$ref": "#/definitions/xiuxiu.GetResponse"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "xiuxiu.GetRequest": {
+            "type": "object",
+            "properties": {
+                "image": {
+                    "type": "string"
+                },
+                "top": {
+                    "type": "string"
+                }
+            }
+        },
+        "xiuxiu.GetResponse": {
+            "type": "object",
+            "properties": {
+                "image": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

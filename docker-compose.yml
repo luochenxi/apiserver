@@ -1,0 +1,11 @@
+version: '2.1'
+
+services:
+  api-server-go:
+    container_name: api-server-go
+    image: apiserver_go:v1.0-1
+    build: .
+    volumes:
+      - '.:/service'
+    ports:
+      - 8888:8888  # 端口暴露（主机端口:容器端口）

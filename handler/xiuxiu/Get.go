@@ -12,7 +12,14 @@ import (
 	"github.com/lexkong/log/lager"
 )
 
-//Get a similar result by xiuxiu images retrieval
+// @Summary Get a similar result by xiuxiu images retrieval
+// @Description Get a similar result
+// @Tags xiuxiu
+// @Accept  json
+// @Produce  json
+// @Param xiuxiu body xiuxiu.GetRequest true "Get a similar list"
+// @Success 200 {object} xiuxiu.GetResponse "{"code":0,"message":"OK","data":{"username":"lcx"}}"
+// @Router /hash/xiuxiu/v3 [post]
 func Get(c *gin.Context) {
 	log.Info("Xiuxiu Get function called.", lager.Data{"X-Request-Id": util.GetReqID(c)})
 	var r GetRequest
