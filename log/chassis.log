@@ -1,0 +1,123 @@
+{"level":"INFO","timestamp":"2019-03-20 18:07:52.471","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-03-20 18:07:52.473","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-04-01 14:42:27.407","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-01 14:42:27.409","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-04-01 15:36:30.920","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-01 15:36:30.921","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-04-01 15:38:32.328","file":"xiuxiu/Get.go:25","msg":"image is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2019-04-01 15:40:08.758","file":"xiuxiu/Get.go:25","msg":"image is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2019-04-01 15:40:08.758","file":"xiuxiu/Get.go:28","msg":"Get an eeror","data":{"error":"Err - code: 20102, message: The user was not found. This is get message., error: image can not found in xiuxiu:xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-04-01 15:40:08.759","file":"xiuxiu/Get.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2019-04-01 16:41:41.131","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-01 16:41:41.132","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-04-01 16:42:52.436","file":"xiuxiu/Get.go:22","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-01 16:42:52.436","file":"xiuxiu/Get.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-01 16:42:52.436","file":"xiuxiu/Get.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-01 16:42:52.436","file":"xiuxiu/Get.go:30","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-01 16:46:05.875","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-01 16:46:05.877","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-04-01 16:46:19.995","file":"xiuxiu/Get.go:22","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-01 16:46:19.995","file":"xiuxiu/Get.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-01 16:46:19.995","file":"xiuxiu/Get.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-01 16:46:19.995","file":"xiuxiu/Get.go:30","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-01 17:43:11.718","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-01 17:43:11.720","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-04-01 17:43:23.676","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-04-01 17:43:23.677","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-01 17:43:23.677","file":"xiuxiu/Get.go:29","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-01 17:43:23.677","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-01 17:43:23.677","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:50:34.495","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-02 18:50:34.497","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-04-02 18:51:02.083","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"f088029c-06ca-43ea-812f-e48382e958ff"}}
+{"level":"INFO","timestamp":"2019-04-02 18:51:02.083","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:51:02.083","file":"xiuxiu/Get.go:29","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-02 18:51:02.083","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:51:02.083","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:51:09.588","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"ded46152-bbff-4b40-b0ba-efc900692ae7"}}
+{"level":"INFO","timestamp":"2019-04-02 18:51:09.588","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:51:09.588","file":"xiuxiu/Get.go:29","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-02 18:51:09.588","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:51:09.588","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:51:47.948","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"a3e3dfb2-c95b-47f2-9b10-02a91557d8fc"}}
+{"level":"INFO","timestamp":"2019-04-02 18:51:47.948","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:51:47.948","file":"xiuxiu/Get.go:29","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-02 18:51:47.948","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:51:47.948","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:51:50.515","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"656a0821-6ebe-45f6-bd17-b0817ac74ca8"}}
+{"level":"INFO","timestamp":"2019-04-02 18:51:50.515","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:51:50.515","file":"xiuxiu/Get.go:29","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-02 18:51:50.515","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:51:50.515","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:53:17.923","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"de08dc96-b9c0-4fea-aaef-79276d5e792f"}}
+{"level":"INFO","timestamp":"2019-04-02 18:53:17.924","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:53:17.924","file":"xiuxiu/Get.go:29","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-04-02 18:53:17.924","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:53:17.924","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:53:49.487","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"4f2f4dbf-df1d-4d85-8e04-b974cab23e40"}}
+{"level":"INFO","timestamp":"2019-04-02 18:53:49.487","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:53:49.487","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-02 18:53:49.487","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:53:49.487","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:54:01.473","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"ab0ef00a-dec6-4bd4-bd7d-cdac24e4c964"}}
+{"level":"INFO","timestamp":"2019-04-02 18:54:01.473","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:54:01.473","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-02 18:54:01.473","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:54:01.473","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:55:41.191","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-02 18:55:41.193","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-04-02 18:55:46.004","file":"middleware/logging.go:57","msg":"New request come in, path: /hash/xiuxiu/v3, Method: POST, body `{\"image\":\"admin\",\"top\":\"admin\"}`"}
+{"level":"INFO","timestamp":"2019-04-02 18:55:46.004","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"1a2a0a87-ba6f-498d-bee5-0ee74c6d07a2"}}
+{"level":"INFO","timestamp":"2019-04-02 18:55:46.004","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-02 18:55:46.004","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-02 18:55:46.004","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-02 18:55:46.004","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-02 18:55:46.004","file":"middleware/logging.go:84","msg":"517µs         | 127.0.0.1    | POST /hash/xiuxiu/v3 | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-04-03 11:35:48.997","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-03 11:35:49.002","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:00.885","file":"middleware/logging.go:57","msg":"New request come in, path: /hash/xiuxiu/v3, Method: POST, body `{\"image\":\"admin\",\"top\":\"admin\"}`"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:00.886","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"70fae92d-ed09-4c40-97b2-9f3a7093ffa3"}}
+{"level":"INFO","timestamp":"2019-04-03 11:36:00.886","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:00.886","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:00.886","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:00.886","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:00.886","file":"middleware/logging.go:84","msg":"876µs         | 127.0.0.1    | POST /hash/xiuxiu/v3 | {code: 0, message: OK}"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:06.614","file":"middleware/logging.go:57","msg":"New request come in, path: /hash/xiuxiu/v3, Method: POST, body `{\"image\":\"admin\",\"top\":\"admin\"}`"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:06.614","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"3a44c838-11fe-4665-8568-fa72539e3714"}}
+{"level":"INFO","timestamp":"2019-04-03 11:36:06.614","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:06.614","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:06.614","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:06.614","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:06.614","file":"middleware/logging.go:84","msg":"332µs         | 127.0.0.1    | POST /hash/xiuxiu/v3 | {code: 0, message: OK}"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:08.674","file":"middleware/logging.go:57","msg":"New request come in, path: /hash/xiuxiu/v3, Method: POST, body `{\"image\":\"admin\",\"top\":\"admin\"}`"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:08.674","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"82200c20-5268-4367-93d1-9067333c7ec6"}}
+{"level":"INFO","timestamp":"2019-04-03 11:36:08.674","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:08.674","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:08.674","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:08.674","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:08.674","file":"middleware/logging.go:84","msg":"624µs         | 127.0.0.1    | POST /hash/xiuxiu/v3 | {code: 0, message: OK}"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:10.702","file":"middleware/logging.go:57","msg":"New request come in, path: /hash/xiuxiu/v3, Method: POST, body `{\"image\":\"admin\",\"top\":\"admin\"}`"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:10.702","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"b651b1bf-7e49-4d44-ba6d-ab9298ccd5a2"}}
+{"level":"INFO","timestamp":"2019-04-03 11:36:10.702","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:10.702","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-03 11:36:10.702","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:36:10.702","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-03 11:36:10.703","file":"middleware/logging.go:84","msg":"350µs         | 127.0.0.1    | POST /hash/xiuxiu/v3 | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-04-03 11:49:19.118","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-03 11:49:19.119","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-04-03 11:49:22.595","file":"middleware/logging.go:57","msg":"New request come in, path: /hash/xiuxiu/v3, Method: POST, body `{\"image\":\"admin\",\"top\":\"admin\"}`"}
+{"level":"INFO","timestamp":"2019-04-03 11:49:22.595","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"ffbae671-8347-4b42-9bcb-d8c7da76edcd"}}
+{"level":"INFO","timestamp":"2019-04-03 11:49:22.595","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-03 11:49:22.595","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-03 11:49:22.595","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-03 11:49:22.595","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-03 11:49:22.595","file":"middleware/logging.go:84","msg":"578µs         | 127.0.0.1    | POST /hash/xiuxiu/v3 | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-04-03 14:06:42.854","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-04-03 14:06:42.856","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-04-03 14:07:36.021","file":"middleware/logging.go:57","msg":"New request come in, path: /hash/xiuxiu/v3, Method: POST, body `{\"image\":\"admin\",\"top\":\"admin\"}`"}
+{"level":"INFO","timestamp":"2019-04-03 14:07:36.022","file":"xiuxiu/Get.go:17","msg":"Xiuxiu Get function called.","data":{"X-Request-Id":"49b50f59-10b7-4c80-b270-a37a91e861c6"}}
+{"level":"INFO","timestamp":"2019-04-03 14:07:36.022","file":"xiuxiu/Get.go:25","msg":"URL image: "}
+{"level":"INFO","timestamp":"2019-04-03 14:07:36.022","file":"xiuxiu/Get.go:29","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-04-03 14:07:36.022","file":"xiuxiu/Get.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-04-03 14:07:36.022","file":"xiuxiu/Get.go:34","msg":"image is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-04-03 14:07:36.022","file":"middleware/logging.go:84","msg":"578µs         | 127.0.0.1    | POST /hash/xiuxiu/v3 | {code: 0, message: OK}"}
