@@ -2,11 +2,11 @@ FROM golang:latest
 MAINTAINER kirio
 
 # 设置工作目录
-RUN mkdir -p /service
-WORKDIR /service
+RUN mkdir -p /go/src
+WORKDIR /go/src
 
 # 添加应用
-ADD . /service
+ADD . /go/src
 
 # 构建服务
 RUN make

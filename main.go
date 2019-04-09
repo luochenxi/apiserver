@@ -11,7 +11,7 @@ import (
 	"apiserver/config"
 	v "apiserver/pkg/version"
 	"apiserver/router"
-	"apiserver/router/middleware"
+	//"apiserver/router/middleware"
 
 	"github.com/gin-gonic/gin"
 	"github.com/lexkong/log"
@@ -55,8 +55,8 @@ func main() {
 		g,
 
 		//Middlewares.
-		middleware.Logging(),
-		middleware.RequestId(),
+		// middleware.Logging(),
+		//middleware.RequestId(),
 	)
 
 	// Ping the server to make sure the router in working.
